@@ -1,0 +1,9 @@
+.container {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 16px;
+}
+.filterWrapper {
+  max-width: 500px;
+  margin-bottom: 20px;
+}

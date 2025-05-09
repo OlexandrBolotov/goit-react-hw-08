@@ -1,0 +1,42 @@
+body {
+  font-family: sans-serif;
+  background-color: #fff;
+  padding: 40px;
+  margin: 0;
+  display: flex;
+
+}
+
+h1 {
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+form {
+  padding: 20px;
+  width: 300px; 
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 15px;
+  font-weight: 500;
+}
+
+label span {
+  display: block;
+  margin-bottom: 5px;
+}
+
+input {
+  width: 100%;
+  padding: 6px 10px;
+  font-size: 14px;
+  border: 1px solid #1a1919;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+
+
